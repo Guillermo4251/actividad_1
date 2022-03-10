@@ -1,0 +1,41 @@
+.centro{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    /* padding-top: 100px; */
+    padding-bottom: 0px;
+    
+}
+
+.lista{
+    padding-left: 200px;
+    padding-right: 100px;
+    
+}
+
+.gatos{
+    height: 200px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.perros{
+    height: 200px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+        display:flex;
+        /* justify-content: center; */
+        align-items: center;
+    
+}
+
+.link{
+    position: absolute;
+  right: 0;
+  width: 100px;
+  height: 120px;
+}
